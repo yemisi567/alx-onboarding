@@ -1,0 +1,28 @@
+Pseudocode to read in three numbers and writes them all in sorted order
+
+Start Program 
+Given 3 integers a, b, c
+Read the integers
+Check if a is not less than or equal to b or it is not less than or equal to c then it is not the smallest
+Check if b is less than or equal to c
+Then a is not less than or equal to b and b is not less than or equal to c
+Print a,b,c
+Else
+Check if a is not less than or equal to c or c is not less than or equal to the b
+Then write a,c,b
+
+Check if b is not less than or equal to a or it is not less than or equal to c then it is not the smallest
+Check if a is less than or equal to c
+Then b is not less than or equal to a and a is not less than or equal to c
+Print b,a,c
+Else
+Check if b is not less than or equal to c or c is not less than or equal to the a
+Then write b,c,a
+
+Check if c is not less than or equal to a or it is not less than or equal to c then it is not the smallest
+Check if a is less than or equal to b
+Then c is not less than or equal to a and a is not less than or equal to b
+Print c,a,b
+Else
+Check if c is not less than or equal to b or b is not less than or equal to the a
+Then write c,b,a

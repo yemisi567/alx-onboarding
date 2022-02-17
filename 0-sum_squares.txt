@@ -1,0 +1,7 @@
+Psuedocode to calculate the sum of squares of given input of numbers
+
+Start Program
+Input an interger N from the user
+Set sum to Zero
+Calculate the sum from the square of N from the user
+End of loop step 7.

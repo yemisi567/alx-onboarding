@@ -1,0 +1,11 @@
+Calculate a running sum
+
+A user will enter numbers that will be added to the sum and when a negative number is encountered, stop adding numbers and write out the final result
+
+Start Program
+
+Read x
+Set sum to 0;
+While(x >= 0)
+ Set sum to x + sum
+ Read x
