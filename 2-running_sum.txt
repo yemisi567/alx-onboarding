@@ -4,6 +4,7 @@ A user will enter numbers that will be added to the sum and when a negative numb
 
 Start Program
 
+
 Read x
 Set sum to 0;
 While(x >= 0)
